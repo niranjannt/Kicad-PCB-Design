@@ -1,0 +1,37 @@
+Reference,Value,Datasheet,Footprint,Qty,Price for 1,Current Consumption,Price
+"C1,C2",10pF C0G,~,ECE445L:C_Axial_200mil,2,$1.60 ,,$3.20 
+"C3,C9",1uF,~,ECE445L:C_Axial_200mil,2,$1.60 ,,$3.20 
+"C4,C6,C7,C8",0.1uF,~,ECE445L:C_Axial_200mil,4,$1.60 ,,$6.40 
+"C5,C11",0.01uF,~,ECE445L:C_Axial_200mil,2,$1.60 ,,$3.20 
+C10,2.2uF,~,ECE445L:CP_Radial_Tantal200mil,1,$6.17 ,,$6.17 
+"C12,C13",4.7uF,~,ECE445L:CP_Radial_Tantal200mil,2,$1.56 ,,$3.12 
+"C14,C15",0.1µ,~,ECE445L:C_Axial_200mil,2,$1.60 ,,$3.20 
+C17,10µ,~,ECE445L:CP_Radial_Tantal200mil,1,$4.89 ,,$4.89 
+"D1,D2,D3",LED,https://users.ece.utexas.edu/~valvano/mspm0/HLMP-4700.pdf,ECE445L:LED_D5.0mm,3,$0.27 ,2.6,$0.81 
+"H1,H2,H3,H4",~,,ECE445L:MountingHole_4_40,4,,,$0.00 
+J1,JTAG,~,ECE445L:PinHeader_1x05_P2.54mm_Vertical,1,$0.10 ,,$0.10 
+J2,Battery,~,ECE445L:PinHeader_1x02_P2.54mm_Vertical,1,$0.10 ,,$0.10 
+R1,1M,https://users.ece.utexas.edu/~valvano/mspm0/CarbonFilmresistors.pdf,ECE445L:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,$1.87 ,,$1.87 
+"R2,R5",10k,https://users.ece.utexas.edu/~valvano/mspm0/CarbonFilmresistors.pdf,ECE445L:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,$1.34 ,,$2.68 
+R3,1252,https://users.ece.utexas.edu/~valvano/mspm0/CarbonFilmresistors.pdf,ECE445L:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,$2.43 ,,$2.43 
+"R4,R6,R7",470,https://users.ece.utexas.edu/~valvano/mspm0/CarbonFilmresistors.pdf,ECE445L:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,3,$1.35 ,,$4.05 
+RV1,PTA2043,~,ECE445L:PTA2043pot,1,$1.44 ,,$1.44 
+SW1,Reset,~,Button_Switch_THT:SW_PUSH_6mm,1,$0.24 ,,$0.24 
+SW2,UP,~,Button_Switch_THT:SW_PUSH_6mm,1,$0.24 ,,$0.24 
+TP1,+3.7V,~,ECE445L:Testpoint_1x02_P2.54mm,1,$0.10 ,,$0.10 
+TP2,GND,~,ECE445L:Testpoint_1x02_P2.54mm,1,$0.10 ,,$0.10 
+TP3,+3.3V,~,ECE445L:Testpoint_1x02_P2.54mm,1,$0.10 ,,$0.10 
+"TP4,TP5,TP6,TP7,TP8,TP9,TP10,TP11,TP12,TP13,TP14,TP15,TP16",TestPoint,~,TestPoint:TestPoint_Pad_1.5x1.5mm,13,,,$0.00 
+U1,TM4C123GH6PMIR,http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftm4c123gh6pm,ECE445L:QFP50P1200X1200X160-64N,1,$12.85 ,58,$12.85 
+U2,Adafruit ST7735R,https://www.mouser.com/datasheet/2/737/ST7735R_V0_2-2489618.pdf,ECE445L:adafruit_st7735r2,1,$14.95 ,0.8,$14.95 
+U3,LP2950-33LPRE3,http://www.ti.com/lit/gpn/lp2950,ECE445L:TL431CLPM,1,,0.05,$0.00 
+U4,AD822ARZ-REEL7,,OP Amp:SOIC127P600X175-8N,1,$1.76 ,1.6,$1.76 
+U5,AD5061BRJZ-1500RL7,https://www.analog.com/media/en/technical-documentation/data-sheets/AD5061.pdf,DAC:RJ_8_ADI-M,1,$1.64 ,1.2,$1.64 
+U7,LM4040DBZ-2.0,http://www.ti.com/lit/ds/symlink/lm4040-n.pdf,Package_TO_SOT_SMD:SOT-23,1,$1.01 ,,$1.01 
+Y1,ABM3-16.000MHZ-B2-T,https://abracon.com/Resonators/abm3.pdf,ECE445L:ABM3,1,$0.96 ,,$0.96 
+,,,,,,,
+,,,,,,Total:,80.81
+,,,,,64.25,,
+,,,,,,,
+,,,,,,,
+,,,,,64.25mA,,
