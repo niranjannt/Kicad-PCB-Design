@@ -37,8 +37,8 @@ This project involved designing a PCB for an analog signal generator using a **T
 ## Screenshot / Diagram
 <img width="1322" height="947" alt="image" src="https://github.com/user-attachments/assets/a1ce2376-a20f-49a4-bd64-565442dfc9bb" />
 <img width="1426" height="902" alt="image" src="https://github.com/user-attachments/assets/fcdeb751-8a66-4b84-b384-72d6f4fb9f3d" />
-![1764009235149](https://github.com/user-attachments/assets/095f5f92-6ab4-4c04-b33d-fb0c609b377f)
-
+[![1764009235149](https://github.com/user-attachments/assets/095f5f92-6ab4-4c04-b33d-fb0c609b377f)
+](https://github.com/niranjannt/Kicad-PCB-Design/blob/main/jlc-pcb-checkout.jpg)
 
 
 ---
