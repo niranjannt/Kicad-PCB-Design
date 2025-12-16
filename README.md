@@ -37,7 +37,7 @@ This project involved designing a PCB for an analog signal generator using a **T
 ## Screenshot / Diagram
 <img width="1322" height="947" alt="image" src="https://github.com/user-attachments/assets/a1ce2376-a20f-49a4-bd64-565442dfc9bb" />
 <img width="1426" height="902" alt="image" src="https://github.com/user-attachments/assets/fcdeb751-8a66-4b84-b384-72d6f4fb9f3d" />
-![Analog Signal Generator PCB](jlc-pcb-checkout.jpg)
+![Analog Signal Generator PCB](jlc-pcb-checkout.jpeg)
 
 
 
